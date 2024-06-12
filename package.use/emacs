@@ -1,0 +1,6 @@
+app-editors/emacs jit
+app-editors/emacs gui
+app-editors/emacs -gtk
+app-editors/emacs X
+sys-devel/gcc jit
+
